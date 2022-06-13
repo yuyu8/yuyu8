@@ -1,6 +1,8 @@
 
 @Software Engineer
+
 @I am addicted to Leetcode thesedays
+
 @You can know about me roughly, you can visit : http://yuyu8.sfuhost.com
 
 @Overview of Repository 
